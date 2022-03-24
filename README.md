@@ -1,5 +1,5 @@
 
- 🤚 Hello, my name is Mohamad
+ 🤚 *Hello, my name is Mohamad*
  
  
  
@@ -7,12 +7,15 @@
  <p>
   Hello World🙂
   <br>
-  I am Mohamad a web developer ..🌏
+  I am a web developer from iran ..🌏
   <br>
   I am very eager to learn and I always learn !💻 ⌨️
   <br>
   I prefer cooperation and like-mindedness at work and I like to help solve problems.🤝
   </p>
+ 
+ 
+ ![alt text](https://nodejs.org/static/images/logo.svg)
  
  
  <h1>Skills</h1>
