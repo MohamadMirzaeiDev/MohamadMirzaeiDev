@@ -1,42 +1,37 @@
 
- 🤚 *Hello, my name is Mohamad*
+🤚 *Hello, my name is Mohamad*
+
+
+
+# About
+
+#### Hello World🙂
+#### I am a web developer from iran ..🌏
+#### I am very eager to learn and I always learn !💻 ⌨️
+#### I prefer cooperation and like-mindedness at work and I like to help solve problems.🤝
+
+
+![alt text](https://nodejs.org/static/images/logo.svg)
  
  
- 
- <h1>About</h1>
- <p>
-  Hello World🙂
-  <br>
-  I am a web developer from iran ..🌏
-  <br>
-  I am very eager to learn and I always learn !💻 ⌨️
-  <br>
-  I prefer cooperation and like-mindedness at work and I like to help solve problems.🤝
-  </p>
- 
- 
- ![alt text](https://nodejs.org/static/images/logo.svg)
+# Skills
+> back-end
+
+- node.js
+- node.js - express.js
+- restFull API
+- python  , Django (In practice mode)
+- php , laravel (In practice mode)
+- mongoDB
+- mySQL
+
  
  
- <h1>Skills</h1>
- <h2>back-end</h2>
- <ul>
-    <li>node.js</li>
-    <li>node.js - express.js</li>
-    <li>restFull API</li>
-    <li>python  , Django (In practice mode)</li>
-    <li>php , laravel (In practice mode)</li>
-    <li>mongoDB</li>
-    <li>mySQL</li>
- </ul>
+ > front-end 
+ - HTML
+ - CSS
+ - JavaScript
+ - jQuery
+ - react.js (In practice mode)
+ - vue.js (In practice mode)
  
- 
- <h2>front-end</h2>
- <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>jQuery</li>
-    <li>react.js (In practice mode)</li>
-    <li>vue.js (In practice mode)</li>
- </ul>
