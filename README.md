@@ -1,9 +1,9 @@
 
-🤚 *Hello, my name is Mohamad*
+# 🤚 *Hello, my name is Mohamad*
 
 
 
-# About
+## About
 
  Hello World🙂 \
  I am a web developer from iran ..🌏\
@@ -14,7 +14,7 @@ I prefer cooperation and like-mindedness at work and I like to help solve proble
 ![alt text](https://nodejs.org/static/images/logo.svg)
  
  
-# Skills
+## Skills
 > back-end
 
 - node.js
