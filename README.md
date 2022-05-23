@@ -11,12 +11,13 @@
 I prefer cooperation and like-mindedness at work and I like to help solve problems.🤝
 
 
-![alt text](https://nodejs.org/static/images/logo.svg)
+![Node JS image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png)
  
+ 
+
  
 ## Skills
 > back-end
-
 - node.js
 - node.js - express.js
 - restFull API
