@@ -1,5 +1,5 @@
 
-# 🤚 *Hello, my name is Mohamad*
+# 🤚 *Hello, Im Mohamad*
 
 
 
