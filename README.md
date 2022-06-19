@@ -32,5 +32,4 @@ I prefer cooperation and like-mindedness at work and I like to help solve proble
  - JavaScript
  - jQuery
  - react.js (In practice mode)
- - vue.js (In practice mode)
  
