@@ -36,8 +36,8 @@ I spend a lot of time on this profession, every day I try to learn new things an
 <a href="https://www.mongodb.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" width="40" height="40"/>
 </a>
-<a href="https://www.sequelize.org">
-    <img src="https://sequelize.org/img/logo.svg" width="40" height="40"/>
+<a href="https://webpack.js.org/">
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" with="40" height="40"/>
 </a>
 
 # Contact
