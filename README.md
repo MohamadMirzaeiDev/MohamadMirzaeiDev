@@ -28,10 +28,10 @@ I spend a lot of time on this profession, every day I try to learn new things an
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/130px-Node.js_logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://www.expressjs.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/130px-Expressjs.png" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/130px-Expressjs.png" width="70" height="40"/>
 </a>
 <a href="https://www.mysql.com">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="60" height="40"/>
 </a>
 <a href="https://www.mongodb.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" width="100" height="40"/>
